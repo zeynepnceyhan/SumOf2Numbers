@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\net6.0\SumOfNumbers.exe
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\net6.0\SumOfNumbers.deps.json
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\net6.0\SumOfNumbers.runtimeconfig.json
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\net6.0\SumOfNumbers.dll
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\bin\Debug\net6.0\SumOfNumbers.pdb
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.dll
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\refint\SumOfNumbers.dll
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.pdb
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\SumOfNumbers.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\SumOfNumbers\SumOfNumbers\obj\Debug\net6.0\ref\SumOfNumbers.dll
